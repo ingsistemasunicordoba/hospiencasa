@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/luX9wgRgr7eiB7gpZZOAWde89n3xKfe2NGqrgIlGmDDi5KB1B7QtB913TIsVrYRq89pPU2kgjZ+kHYJa3o33Q==",
+  "success": false,
+  "projectFilePath": "E:\\Git_GitHub\\hospiencasa\\HospiEnCasa.app\\HospiEnCasa.app.Presentacion\\HospiEnCasa.app.Presentacion.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Swashbuckle.AspNetCore (>= 6.2.3)' para 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
